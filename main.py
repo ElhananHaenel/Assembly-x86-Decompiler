@@ -9,4 +9,4 @@ if len(sys.argv) > 1:
 else:
     address = raw_input('address of file: ')
 
-decompiler_asm.main('main.txt',0,address)
+decompiler_asm.main_decompiler_asm('main.txt',0,address)
