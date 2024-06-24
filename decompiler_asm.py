@@ -490,7 +490,7 @@ def call_fun(address, input_file, input_file_write): #print call
     counter = y
 
 
-def main(fnt_path, num_to_down, address):
+def main_decompiler_asm(fnt_path, num_to_down, address):
     #address = r'C:\gvahim\assembly\dosbox\WORK\peroj\pacman.com'
     #address = r'C:\gvahim\assembly\dosbox\peroject\try1.com'
 
